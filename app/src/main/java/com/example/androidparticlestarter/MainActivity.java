@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         // 2. Setup your device variable
         getDeviceFromCloud();
 
-        
+
         //CREATING BUTTONS
         Button a = findViewById(R.id.a);
         Button b = findViewById(R.id.b);
